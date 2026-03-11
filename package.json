@@ -1,0 +1,18 @@
+{
+  "name": "@chraphouse/humanize",
+  "version": "1.0.0",
+  "description": "Format numbers, bytes, dates, durations, and lists into human-readable strings. Zero dependencies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["humanize", "format", "bytes", "duration", "timeago", "number", "compact", "ordinal", "pluralize", "truncate"],
+  "author": "Adam Chraibi <adamchraibi@yahoo.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chraphouse/humanize"
+  },
+  "homepage": "https://github.com/chraphouse/humanize#readme",
+  "files": ["index.js", "README.md", "LICENSE"]
+}
